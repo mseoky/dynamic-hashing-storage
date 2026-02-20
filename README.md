@@ -1,4 +1,4 @@
-﻿# Dynamic Hashing Storage (파일구조 과제 아카이브)
+﻿# Dynamic Hashing Storage
 
 ## 프로젝트 개요
 이 저장소는 **2025년도 1학기 파일구조(File Structures) 수업 과제 3** 아카이브입니다.  
