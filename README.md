@@ -1,7 +1,7 @@
 ﻿# Dynamic Hashing Storage
 
 ## 프로젝트 개요
-이 저장소는 **2025년도 1학기 파일구조(File Structures) 수업 과제 3** 아카이브입니다.  
+이 저장소는 **2025년도 1학기 파일구조(File Structures) 수업 과제** 아카이브입니다.  
 과제 목표는 제한된 메모리(4KB 블록 3개) 환경에서 `student`/`professor` 레코드를 **binary 파일**로 저장하고, 삽입/검색/조인을 빠르게 수행하는 저장 구조를 구현하는 것이었습니다.
 
 - 과제 명세: `assignment-3.pdf`
